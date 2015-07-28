@@ -74,7 +74,7 @@ add some other useful tools for manipulating `COLORMAP`s.
 
 ## See also
 
-<http://jmtd.net/doom/>
-<http://doomwiki.org/wiki/Inkworks>
-<http://doomwiki.org/wiki/COLORMAP>
-<http://freedoom.github.io/>
+ * <http://jmtd.net/doom/>
+ * <http://doomwiki.org/wiki/Inkworks>
+ * <http://doomwiki.org/wiki/COLORMAP>
+ * <http://freedoom.github.io/>
